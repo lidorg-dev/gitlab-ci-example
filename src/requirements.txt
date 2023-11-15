@@ -11,4 +11,4 @@ gunicorn==19.6.0
 Jinja2==2.8
 psycopg2==2.6.2
 requests==2.11.1
-SQLAlchemy==1.1.2
+SQLAlchemy==1.2.18
